@@ -24,6 +24,7 @@ Desenvolvedor Web e Full Stack. Atuação com Desenvolvimento de Sites, Lojas Vi
  <img align="center" alt="Emerson-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg" />
+ <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nuxtjs/nuxtjs-original.svg" />
  <img align="center" alt="Emerson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Emerson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
