@@ -41,6 +41,7 @@ Desenvolvedor Web e Full Stack. Atuação com Desenvolvimento de Sites, Lojas Vi
 <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="center" height="30" width="40"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/oracle/oracle-original.svg" />
 <img align="center" height="30" width="40"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img align="center" height="30" width="40"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" />
 <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" />
  
 
