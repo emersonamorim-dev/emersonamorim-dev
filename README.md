@@ -8,6 +8,23 @@ Desenvolvedor Web e Full Stack. Atuação com Desenvolvimento de Sites, Lojas Vi
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonamorim-dev)](https://github.com/anuraghazra/github-readme-stats)
 
+const emerson = {
+    pronouns: "he" | "his",
+    code: [Javascript, Typescript, Java, C#, Python, Golang, HTML, CSS],
+    askMeAbout: ["web dev", "ui/ux", "football", "ice cream", "barbecue"],
+    technologies: {
+        frontEnd: {
+            js: [Angular, ReactJS, VueJS, NextJs and Vite],
+            css: ["scss, tailwindcss", "bootstrap", "material", "scss"]
+        },
+        backEnd: {
+            js: ["node.js", "nest.js", "adonis", "express", "next.js", java, "graphql"],
+            database: ["mongodb", "mysql", "postgresql"],
+            devops: ["windows, linux", "docker", "git"]
+        },
+    }
+};
+
 
 
 ## Technologies
