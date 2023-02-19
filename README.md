@@ -12,12 +12,12 @@ Desenvolvedor Web e Full Stack. Atuação com Desenvolvimento de Sites, Lojas Vi
 ```javascript
 const emerson = {
     pronouns: "he" | "his",
-    code: [Javascript, Typescript, Java, C#, Python, Golang, HTML, CSS],
+    code: [Javascript, Typescript, Java, C#, Python, Golang, Solidity],
     askMeAbout: ["web dev", "ui/ux", "DATA SCIENCE", "football", "ice cream", "barbecue"],
     technologies: {
         frontEnd: {
             js: [Angular, ReactJS, VueJS, NextJs and Vite],
-            css: ["scss", tailwindcss", "bootstrap", "material", "scss"]
+            css: ["scss", tailwindcss", "bootstrap", "material", "css"]
         },
         backEnd: {
             js: ["node.js", "nest.js", "adonis", "express", "next.js", "java", "graphql"],
