@@ -27,7 +27,7 @@ const emerson = {
 };
 ```
 
-![Snake animation](https://github.com/emersonamorim-dev/emersonamorim-dev/blob/output/github-contribution-grid-snake.svg) 
+![mario bros animation](https://cdn.dribbble.com/users/3396733/screenshots/12665793/media/0769d03ce602d8f39594064e40d3a3c9.gif) 
 
 
 ## Technologies
