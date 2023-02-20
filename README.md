@@ -81,6 +81,9 @@ const emerson = {
  
  
 </div> 
+
+
+<img align="center" height="600" width="800"  src="https://github.com/emersonamorim-dev/emersonamorim-dev/blob/main/image_processing20200702-24886-aehqc5.gif" />
  
  ## 
  
