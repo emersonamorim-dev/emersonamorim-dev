@@ -81,10 +81,6 @@ const emerson = {
  
  
 </div> 
-
-
-<img align="center" height="600" width="800"  src="https://github.com/emersonamorim-dev/emersonamorim-dev/blob/main/image_processing20200702-24886-aehqc5.gif" />
- 
  ## 
  
 <div> 
@@ -92,4 +88,8 @@ const emerson = {
   <a href="https://www.linkedin.com/in/emerson-amorim-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+
+<img align="center" height="600" width="800"  src="https://github.com/emersonamorim-dev/emersonamorim-dev/blob/main/image_processing20200702-24886-aehqc5.gif" />
+ 
 
