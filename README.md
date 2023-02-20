@@ -27,6 +27,8 @@ const emerson = {
 };
 ```
 
+![Snake animation](https://github.com/emersonamorim-dev/emersonamorim-dev/blob/output/github-contribution-grid-snake.svg) 
+
 
 ## Technologies
 #### Back-end
