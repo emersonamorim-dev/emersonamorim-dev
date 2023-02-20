@@ -26,9 +26,6 @@ const emerson = {
     }
 };
 ```
-<div style="display: inline_block">
-<img align="center" height="600" width="800" src="(https://cdn.dribbble.com/users/3396733/screenshots/12665793/media/0769d03ce602d8f39594064e40d3a3c9.gif" />
-</div> 
 
 ## Technologies
 #### Back-end
