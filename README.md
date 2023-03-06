@@ -2,9 +2,6 @@
 
 Desenvolvedor Web e Full Stack. Atuação com Desenvolvimento de Sites, Lojas Virtuais, E-commerce e Aplicativos.
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev)
 
 ### aboutMe.js
