@@ -2,7 +2,6 @@
 
 Atuo há 19 anos como Desenvolvedor Frontend, Backend e Full Stack, tendo experiência no desenvolvimento de Sites, E-commerce e Aplicativos. Sou especializado em linguagens de programação como Java, C#, PHP, Python, Javascript, TypeScript, Golang e Solidity.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev)
 
 ### aboutMe.js
 ```javascript
@@ -23,6 +22,7 @@ const emerson = {
     }
 };
 ```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev)
 
 ## Technologies
 #### Back-end
