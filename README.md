@@ -17,7 +17,7 @@ const emerson = {
         backEnd: {
             js: ["Node.js", "Nest.js", "AdonisJs", "C#", "Java", "Golang", "Python"],
             database: ["mongodb", "mysql", "postgresql"],
-            devops: ["windows", linux", "docker", "git"]
+            devops: ["windows", linux", "docker", "git", kubernetes]
         },
     }
 };
