@@ -1,13 +1,13 @@
 ### Emerson Amorim
 
-Atuo há 19 anos como Desenvolvedor Frontend, Backend e Full Stack, tendo experiência no desenvolvimento de Sites, E-commerce e Aplicativos. Sou especializado em linguagens de programação como Java, C#, PHP, Python, Javascript, TypeScript, Golang e Solidity.
+Atuo há 19 anos como Desenvolvedor Frontend, Backend e Full Stack, tendo experiência no desenvolvimento de Sites, E-commerce e Aplicativos. Sou especializado em linguagens de programação como Java, C#, PHP, Python, Javascript, TypeScript, Golang, Kotlin e Solidity.
 
 
 ### aboutMe.js
 ```javascript
 const emerson = {
     pronouns: "he" | "his",
-    code: [Javascript, Typescript, Java, C#, Python, Golang, Solidity],
+    code: [Javascript, Typescript, Java, C#, Python, Golang, Kotlin, Solidity],
     askMeAbout: ["web dev", "ui/ux", "DATA SCIENCE", "football", "ice cream", "barbecue"],
     technologies: {
         frontEnd: {
@@ -15,7 +15,7 @@ const emerson = {
             css: ["scss", tailwindcss", "bootstrap", "material", "css"]
         },
         backEnd: {
-            js: ["Node.js", "Nest.js", "AdonisJs", "C#", "Java", "Golang", "Python"],
+            js: ["Node.js", "Nest.js", "AdonisJs", "C#", "Java", "Golang", "Kotlin", "Python"],
             database: ["mongodb", "mysql", "postgresql"],
             devops: ["windows", linux", "docker", "git", "kubernetes"]
         },
