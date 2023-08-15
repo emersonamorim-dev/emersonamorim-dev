@@ -7,7 +7,7 @@ Atuo há 19 anos como Desenvolvedor Frontend, Backend e Full Stack, tendo experi
 ```javascript
 const emerson = {
     about: "Tenho experiência em DevOps, utilizando plataformas como AWS, Azure e Google Cloud. 
-Utilizo ferramentas como VsCode, Kubernetes, Docker, Microsservices." 
+Utilizo ferramentas como VsCode, Visual Studio, SpringToolSuite4 e IntelliJ IDEA Community, Kubernetes, Docker, Terraform." 
 | "RabbitMQ, Blockchain, Apache Kafka, Django, Mysql, Postgress, MongoDB, GraphQL, CRM, ERP e Figma, 
 para aprimorar a qualidade dos projetos desenvolvidos.",
     code: [Javascript, Typescript, Java, C#, Python, Golang, Kotlin, Solidity],
