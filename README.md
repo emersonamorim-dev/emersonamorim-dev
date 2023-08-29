@@ -28,6 +28,8 @@ para aprimorar a qualidade dos projetos desenvolvidos.",
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev&langs_count=8)
+
 ## Technologies
 #### Back-end
 <div style="display: inline_block">
