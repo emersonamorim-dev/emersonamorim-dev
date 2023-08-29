@@ -88,7 +88,7 @@ para aprimorar a qualidade dos projetos desenvolvidos.",
  
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev&langs_count=8)
 
 
 
