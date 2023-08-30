@@ -26,9 +26,9 @@ para aprimorar a qualidade dos projetos desenvolvidos.",
 };
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev&layout=pie)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim&langs_count=8)
 
 ## Technologies
 #### Back-end
