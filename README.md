@@ -26,7 +26,7 @@ para aprimorar a qualidade dos projetos desenvolvidos.",
 };
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev&hide_progress=true&layout=pie)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev&langs_count=8hide_progress=true&layout=pie)]
 
 ## Technologies
 #### Back-end
