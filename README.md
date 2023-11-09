@@ -29,7 +29,7 @@ para aprimorar a qualidade dos projetos desenvolvidos.",
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev&layout=pie)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev&langs_count=12)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emersonamorim-dev&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/emersonamorim-dev/github-readme-activity-graph)
+
 
 
 
