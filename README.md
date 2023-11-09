@@ -30,7 +30,7 @@ para aprimorar a qualidade dos projetos desenvolvidos.",
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev&layout=compact)](https://github.com/emersonamorim-dev/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emersonamorim-dev)](https://github.com/emersonamorim-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev)](https://github.com/emersonamorim-dev/github-readme-stats)
 
 
 ## Technologies
