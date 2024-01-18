@@ -14,7 +14,7 @@ para aprimorar a qualidade dos projetos desenvolvidos.",
     askMeAbout: ["web dev", "ui/ux", "DATA SCIENCE", "football", "ice cream", "barbecue"],
     technologies: {
         frontEnd: {
-            js: [Angular, ReactJS, VueJS, NextJs and Vite],
+            js: [Angular, ReactJS, VueJS, NextJs, Javascript],
             css: ["scss", tailwindcss", "bootstrap", "material", "css"]
         },
         backEnd: {
