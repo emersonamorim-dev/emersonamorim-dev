@@ -26,9 +26,9 @@ para aprimorar a qualidade dos projetos desenvolvidos.",
 };
 ```
 
-![Languages](https://github.com/emersonamorim-dev/github-stats/blob/master/generated/languages.svg)
+![Languages](https://github.com/emersonamorim-dev/github-stats/blob/master/generated/languages.svg) ![Overview](https://github.com/emersonamorim-dev/github-stats/blob/master/generated/overview.svg)
 
-![Overview](https://github.com/emersonamorim-dev/github-stats/blob/master/generated/overview.svg)
+
 
 
 
