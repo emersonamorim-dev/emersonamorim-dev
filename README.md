@@ -26,6 +26,11 @@ para aprimorar a qualidade dos projetos desenvolvidos.",
 };
 ```
 
+![Languages](https://github.com/emersonamorim-dev/github-stats/blob/master/generated/languages.svg)
+
+![Overview](https://github.com/emersonamorim-dev/github-stats/blob/master/generated/overview.svg)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev)](https://github.com/emersonamorim-dev/github-readme-stats) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonamorim-dev&layout=compact)](https://github.com/emersonamorim-dev/github-readme-stats)
 
