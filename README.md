@@ -81,7 +81,10 @@ para aprimorar a qualidade dos projetos desenvolvidos.",
 <img align="center" height="30" width="40"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jira/jira-original.svg" />
 <img align="center" height="30" width="40"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" />
 <img align="center" height="30" width="40"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain.svg" />
+
+
  
+![svg](https://raw.githubusercontent.com/emersonamorim-dev/emersonamorim-dev/c3a12b70d1d96fcfe8d4d84569f456a6dd6f4848/profile-3d-contrib/profile-green-animate.svg)
  
 </div> 
  ## 
