@@ -2,6 +2,8 @@
 
 Atuo há 20 anos como Desenvolvedor Frontend, Backend e Full Stack, tendo experiência no desenvolvimento de Sites, E-commerce e Aplicativos. Sou especializado em linguagens de programação como Java, C#, PHP, Python, Javascript, TypeScript, Golang, Kotlin e Ruby.
 
+🤖 Especializado em AI Engineering, Agentic AI, arquitetura multimodal de agentes e principalmente no conceito de AI Product Engineering + Agentic AI.
+
 
 ### aboutMe.js
 ```javascript
