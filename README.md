@@ -4,6 +4,10 @@ Atuo há 20 anos como Desenvolvedor Frontend, Backend e Full Stack, tendo experi
 
 🤖 Especializado em AI Engineering, Agentic AI, arquitetura multimodal de agentes e principalmente no conceito de AI Product Engineering + Agentic AI.
 
+Founder of KingFy — AI Super App
+AI agents, multimodal AI, communication and digital experiences.
+Website: https://www.kingfy.app
+
 
 ### aboutMe.js
 ```javascript
