@@ -4,10 +4,12 @@ Atuo há 20 anos como Desenvolvedor Frontend, Backend e Full Stack, tendo experi
 
 🤖 Especializado em AI Engineering, Agentic AI, arquitetura multimodal de agentes e principalmente no conceito de AI Product Engineering + Agentic AI.
 
-Founder of KingFy — Super App de IA
+Founder of KingFy — Super App de IA —
 O primeiro do Brasil, agora no seu navegador
 Website: https://www.kingfy.app
 
+Baixe na Google Play
+https://play.google.com/store/apps/details?id=br.com.kingfy.org.kingfy18app
 
 ### aboutMe.js
 ```javascript
