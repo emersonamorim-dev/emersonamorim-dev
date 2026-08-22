@@ -13,7 +13,7 @@ https://play.google.com/store/apps/details?id=br.com.kingfy.org.kingfy18app
 
 Founder & Principal Software Engineer at EmerSoftware — Agentic Enterprise Software Factory
 
-Acesse a EmerSofware e faça uma orçamento conosco:
+Acesse a EmerSofware e faça um orçamento conosco:
 https://www.emersoftware.com.br/equipe/emerson-amorim
 
 ### aboutMe.js
