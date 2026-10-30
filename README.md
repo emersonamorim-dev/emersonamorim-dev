@@ -16,6 +16,9 @@ Founder & Principal Software Engineer at EmerSoftware — Agentic Enterprise Sof
 Acesse a EmerSofware e faça um orçamento conosco:
 https://www.emersoftware.com.br/equipe/emerson-amorim
 
+Conheça meu portfólio:
+https://emersonamorim.com.br
+
 ### aboutMe.js
 ```javascript
 const emerson = {
